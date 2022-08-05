@@ -1,0 +1,8 @@
+{
+  "name": "Simple-Smart-Contract-Upgrade",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/raiyanmook27/Simple-Smart-Contract-Upgrade.git",
+  "author": "raiyanmook27 <raiyan.mook27@gmail.com>",
+  "license": "MIT"
+}
